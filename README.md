@@ -6,6 +6,7 @@
 
 #### Моё резюме, соответствующее текущей ситуации по образованию, можно посмотреть по данной ссылке.
 ##### [Резюме соискателя на должность тестировщика](https://github.com/Dmitry-A-K/Dmitry-A-K/blob/main/%D0%A0%D0%95%D0%97%D0%AE%D0%9C%D0%95%20%D0%A1%D0%9E%D0%98%D0%A1%D0%9A%D0%90%D0%A2%D0%95%D0%9B%D0%AF.pdf)
+##### [Сопроводительное письмо](https://github.com/Dmitry-A-K/Dmitry-A-K/blob/main/%D0%A1%D0%9E%D0%9F%D0%A0%D0%9E%D0%92%D0%9E%D0%94%D0%98%D0%A2%D0%95%D0%9B%D0%AC%D0%9D%D0%9E%D0%95%20%D0%9F%D0%98%D0%A1%D0%AC%D0%9C%D0%9E.md)
 ##### Мои [сертификаты](https://github.com/Dmitry-A-K/Dmitry-A-K/tree/main/Certificate), подтверждающие окончание курсов или модулей.
 <!--
 **Dmitry-A-K/Dmitry-A-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
